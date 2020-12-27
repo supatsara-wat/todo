@@ -4,7 +4,7 @@ function App() {
         <Container>
             <Row>
                 <Col>
-                    1
+                    4
                 </Col>
             </Row>
         </Container>
