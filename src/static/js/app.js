@@ -2,7 +2,7 @@ function App() {
     const { Container, Row, Col } = ReactBootstrap;
     return (
         <Container>
-            <Row>
+            <Row className="justify-content-md-center">
             <Col><h1>App Todo</h1></Col>
             </Row>
             <Row>
